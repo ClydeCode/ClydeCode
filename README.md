@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ClydeProgrammer
-- 👀 I’m interested in Back-End, Java, Spring framework
+- 👀 I’m interested in Back-End, Javascript, Node.JS
 - 🌱 I’m currently learning Java Data Science
 - 📫 How to reach me Discord: Clyde.#2040
 
