@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClydeProgrammer
 - 👀 I’m interested in Back-End, Javascript, Node.JS
-- 🌱 I’m currently learning Java Data Science
+- 🌱 I’m currently learning Javascript language
 - 📫 How to reach me Discord: Clyde.#2040
 
 <!---
