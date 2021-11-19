@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClydeProgrammer
+- 👋 Hi, I’m @ClydeCode
 - 👀 I’m interested in Back-End, Javascript, Node.JS
 - 🌱 I’m currently learning Javascript language
 - 📫 How to reach me Discord: Clyde.#2040
