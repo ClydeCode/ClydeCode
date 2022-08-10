@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClydeCode
 - 👀 I’m interested in Back-End, Javascript, Node.JS
-- 🌱 I’m currently learning Javascript language
+- 🌱 I’m currently learning Javascript language, React.JS
 - 📫 How to reach me Discord: Clyde.#2040
 
 <!---
